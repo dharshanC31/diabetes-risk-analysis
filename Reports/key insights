@@ -1,0 +1,25 @@
+# 📊 Key Insights — Diabetes Risk Analysis
+
+## Finding 1 — Overall Diabetes Rate
+- 34.9% of patients are diabetic
+- 65.1% of patients are healthy
+
+## Finding 2 — Top Risk Factors
+1. Glucose level (most important)
+2. BMI (second most important)
+3. Age (third most important)
+
+## Finding 3 — Age Group Analysis
+- Senior (45-60): 58% diabetes rate
+- Elderly (60+): 50% diabetes rate
+- Middle Age (30-45): 45% diabetes rate
+- Young (under 30): 22% diabetes rate
+
+## Finding 4 — High Risk Zone
+- Patients with Glucose > 140 AND BMI > 30
+  are 3x more likely to be diabetic
+
+## Finding 5 — ML Model Performance
+- Logistic Regression: 79% accuracy
+- Decision Tree: 77% accuracy
+- Best predictor: Glucose level
