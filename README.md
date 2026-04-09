@@ -58,6 +58,6 @@ diabetes-risk-analysis/
 - Size: 768 patients, 9 columns
 
 ## 👤 Author
-Dharshan C
-Student | Data Analytics
+Dharshan C 
+| Student | Data Analytics
 LinkedIn: www.linkedin.com/in/dharshan-c-b69121330
